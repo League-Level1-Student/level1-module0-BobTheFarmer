@@ -10,7 +10,7 @@ public class Houses {
 		robo.setSpeed(1000);
 		robo.penDown();
 		for(int i=0; i<10; i+=1) {
-			drawHouse("large", "hi", 150, 200, 255);
+			drawHouse("large", "flat", 150, 200, 255);
 		}
 	
 }
